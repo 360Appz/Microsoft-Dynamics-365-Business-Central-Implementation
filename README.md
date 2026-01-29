@@ -1,6 +1,3 @@
-## TechGear Distribution Pte Ltd - Portfolio Project
-
-<br/>
 
 ## 🎯 Project Overview
 
