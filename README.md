@@ -42,3 +42,7 @@ Legacy systems (QuickBooks + Excel) causing:
 - Integrations: Shopify (e-commerce), LS Retail (POS), Payment Gateway  
 - Regional compliance: Malaysia SST Localization, Singapore GST/Peppol  
 - Business Intelligence: Power BI dashboards with real-time KPIs  
+
+**Architecture**
+* [https://sunset-metacarpal-a43.notion.site/D365-Business-Central-Solution-Architecture-2f7ef23c9d9b809da8a0c64e2ebfe3c8](https://sunset-metacarpal-a43.notion.site/D365-Business-Central-Solution-Architecture-2f7ef23c9d9b809da8a0c64e2ebfe3c8)
+
